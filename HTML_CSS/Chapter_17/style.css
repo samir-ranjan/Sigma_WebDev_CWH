@@ -1,0 +1,29 @@
+div{
+    background-color: yellow;
+}
+
+/* class selector */
+.x{
+    background-color: rgb(210, 32, 47);
+}
+
+/* id selector */
+#y{
+    background-color: aqua;
+}
+
+/* child selector */
+div>article>p{
+    background-color: blue;
+}
+
+/* Universal selector */
+*{
+    margin: 20;
+    padding: 20;
+}
+
+
+a:visited{
+    color: yellow;
+}

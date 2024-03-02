@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Roboto:wght@100&display=swap');
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    /* font-style: italic;
+    font-weight: 400;
+    text-decoration: underline; */
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
